@@ -63,3 +63,10 @@ typings/
 
 # next.js build output
 .next
+
+#IDEA Files
+.idea/*
+!.idea/vcs.xml
+!.idea/icon.png
+*.iml
+*.ipr
